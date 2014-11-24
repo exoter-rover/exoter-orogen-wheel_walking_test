@@ -1,0 +1,19 @@
+<package>
+  <description brief="component for walking capability test of ExoTeR. Filming 26th August">
+  
+  </description>
+  <author>Martin Azkarate/Martin.Azkarate@esa.int</author>
+  <license></license>
+  <url>http://</url>
+  <logo>http://</logo>
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="exoter/locomotion_control" />
+  <depend package="base/orogen/types" />
+
+</package>
