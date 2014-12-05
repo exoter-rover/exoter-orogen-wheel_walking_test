@@ -15,5 +15,6 @@
   -->
   <depend package="control/locomotion_control" />
   <depend package="base/orogen/types" />
+  <depend package="drivers/orogen/platform_driver" />
 
 </package>
