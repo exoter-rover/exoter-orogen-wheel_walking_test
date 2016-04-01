@@ -6,6 +6,10 @@
 #include "wheel_walking_test/TaskBase.hpp"
 #include "platform_driver/platform_driverTypes.hpp"
 
+#include <base/Time.hpp>
+#include <base/samples/Joints.hpp>
+#include <base/commands/Joints.hpp>
+
 namespace wheel_walking_test {
 
 /**
